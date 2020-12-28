@@ -1,0 +1,4 @@
+RENCANA KONTENT
+- true or false
+- foografi
+- lightroom
