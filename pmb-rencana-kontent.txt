@@ -2,6 +2,10 @@ RENCANA KONTENT
 - true or false
 - foografi
   ^ potret
+  ^ landscape
+- kelola youtube
+  ^ membuat video
+  ^ edit video
 - lightroom
 - kelola youtube
   ^ membuat video
