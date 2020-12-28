@@ -2,3 +2,4 @@ RENCANA KONTENT
 - true or false
 - foografi
 - lightroom
+- kelola youtube
